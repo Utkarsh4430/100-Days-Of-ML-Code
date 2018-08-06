@@ -5,3 +5,7 @@
  
 ## Day 2 (5/8/18):
 >Still working on the implementation of NB Text Classification
+
+## Day 3 (6/8/18):
+>Finished the implementation
+>Starting KNN
