@@ -9,3 +9,6 @@
 ## Day 3 (6/8/18):
 >Finished the implementation
 >Starting KNN
+
+## Day 4 (7/8/18):
+>SVM
