@@ -8,10 +8,15 @@
 
 ## Day 3 (6/8/18):
 >Finished the implementation
->Starting KNN
 
 ## Day 4 (7/8/18):
->SVM
+>Starting KNN
 
 ## Day 5,6 (8,9/8/18)
+>SVM
+
+## Day 7 (10/8/18)
 >PCA
+
+## Day 8 (11/8/18)
+>Cifar project
